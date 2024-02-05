@@ -1,2 +1,2 @@
 # Vote-Counter
-This project is based and centralized on accurate voting counting system.
+This project is based and centralized on accurate vote counting system.
